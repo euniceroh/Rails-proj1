@@ -56,3 +56,7 @@ gem 'paperclip', '~> 4.2'
 
 #Amazon S3 gem for picture storage
 gem 'aws-sdk', '~>1.20.0'
+
+#Masonry Styling Gems
+gem 'jquery-turbolinks'
+gem 'masonry-rails', '~> 0.2.0'
